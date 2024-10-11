@@ -1,2 +1,2 @@
-## Hi there 👋
-## I'm mobile app developer using Android 📱
+Hi there 👋
+I'm mobile app developer using Android 📱
